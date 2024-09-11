@@ -1,4 +1,5 @@
 class Book {
+//this is constructor class
     constructor(title, author,isbn, numOfCopies) {
       this.title = title;
       this.author = author;
